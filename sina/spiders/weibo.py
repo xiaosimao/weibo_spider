@@ -1,4 +1,8 @@
+#!/usr/bin/env python
 # -*- coding: utf-8 -*-
+# Created by shimeng on 17-5-19
+
+
 import scrapy
 import json
 from scrapy import Request
